@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy
+scipy
+matplotlib
+seaborn
+openpyxl     # .xlsx input
+xlrd         # legacy .xls input
+venn         # 4-set Venn diagrams
